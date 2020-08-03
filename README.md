@@ -1,5 +1,5 @@
 # Classical-Problems
-## Probelm Set answers to common assignments using recursion
+## Probelm Set answers to common assignments using recursion/iterations
 
 ## Sets
 * Fibonacci.py: Getting the nth term fiboncci number
